@@ -20,5 +20,4 @@
             app:srcCompat="@drawable/ic_launcher_background" />
     </androidx.cardview.widget.CardView>
 
-
 </LinearLayout>
