@@ -114,7 +114,7 @@ class MainActivity : AppCompatActivity() {
             boardSize = when(radioGroupSize.checkedRadioButtonId){
                 R.id.rdEasy-> BoardSize.EASY
                 R.id.rdMediam->BoardSize.MEDIUM
-                else -> BoardSize.HARD
+                else ->   BoardSize.HARD
             }
             setupBoard()
         })
